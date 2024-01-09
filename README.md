@@ -17,7 +17,6 @@ A simple Age Calculator web application built with HTML and CSS. Calculate your 
 
 ## Screenshots
 ![age_calculator_home](https://github.com/MadhusaiPathakoti/Age_calculator/assets/83114463/ddc0fdb8-d047-4b19-ac77-fc8ed7c36512)
-Result
 ![age_calculator_result](https://github.com/MadhusaiPathakoti/Age_calculator/assets/83114463/84ab9b9e-5dbb-4bab-ab42-96674d3507a3)
 
 ## Technologies Used
